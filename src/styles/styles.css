@@ -1,0 +1,12 @@
+.layout-card {
+    height: 375px;
+}
+
+.draggable-component { 
+    width: 250px;
+    height: 100px;
+}
+
+.remove {
+    line-height: 0.5px;
+}
